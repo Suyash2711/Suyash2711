@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thesuyashnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesuyashnigam" height="30" width="40" /></a>
-<a href="https://kaggle.com/snm2711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="snm2711" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sn7821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sn7821" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suyashnigam34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suyashnigam34" height="30" width="40" /></a>
 </p>
